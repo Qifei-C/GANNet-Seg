@@ -1,0 +1,11 @@
+torch
+torchvision
+torchsummary
+numpy
+pandas
+nibabel
+scipy
+tqdm
+scikit-image
+wandb
+tensorboard

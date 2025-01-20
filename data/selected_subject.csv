@@ -1,0 +1,26 @@
+Subject ID,Scan Type,Processing Info,File Path
+1,flair,raw,../data/flattened_nii_files_2020/BraTS20_Training_001_flair.nii
+1,seg,raw,../data/flattened_nii_files_2020/BraTS20_Training_001_seg.nii
+1,t1,raw,../data/flattened_nii_files_2020/BraTS20_Training_001_t1.nii
+1,t1ce,raw,../data/flattened_nii_files_2020/BraTS20_Training_001_t1ce.nii
+1,t2,raw,../data/flattened_nii_files_2020/BraTS20_Training_001_t2.nii
+24,flair,raw,../data/flattened_nii_files_2020/BraTS20_Training_024_flair.nii
+24,seg,raw,../data/flattened_nii_files_2020/BraTS20_Training_024_seg.nii
+24,t1,raw,../data/flattened_nii_files_2020/BraTS20_Training_024_t1.nii
+24,t1ce,raw,../data/flattened_nii_files_2020/BraTS20_Training_024_t1ce.nii
+24,t2,raw,../data/flattened_nii_files_2020/BraTS20_Training_024_t2.nii
+225,flair,raw,../data/flattened_nii_files_2020/BraTS20_Training_225_flair.nii
+225,seg,raw,../data/flattened_nii_files_2020/BraTS20_Training_225_seg.nii
+225,t1,raw,../data/flattened_nii_files_2020/BraTS20_Training_225_t1.nii
+225,t1ce,raw,../data/flattened_nii_files_2020/BraTS20_Training_225_t1ce.nii
+225,t2,raw,../data/flattened_nii_files_2020/BraTS20_Training_225_t2.nii
+243,flair,raw,../data/flattened_nii_files_2020/BraTS20_Training_243_flair.nii
+243,seg,raw,../data/flattened_nii_files_2020/BraTS20_Training_243_seg.nii
+243,t1,raw,../data/flattened_nii_files_2020/BraTS20_Training_243_t1.nii
+243,t1ce,raw,../data/flattened_nii_files_2020/BraTS20_Training_243_t1ce.nii
+243,t2,raw,../data/flattened_nii_files_2020/BraTS20_Training_243_t2.nii
+258,flair,raw,../data/flattened_nii_files_2020/BraTS20_Training_258_flair.nii
+258,seg,raw,../data/flattened_nii_files_2020/BraTS20_Training_258_seg.nii
+258,t1,raw,../data/flattened_nii_files_2020/BraTS20_Training_258_t1.nii
+258,t1ce,raw,../data/flattened_nii_files_2020/BraTS20_Training_258_t1ce.nii
+258,t2,raw,../data/flattened_nii_files_2020/BraTS20_Training_258_t2.nii
