@@ -1,3 +1,5 @@
+![546FP_Poster (1)-1](https://github.com/user-attachments/assets/50c16910-1ca1-4cab-8353-f1b077e38b91)
+
 This folder contains all code for data preparation, training, and validation process for Group2 546 Final Project GANNET-seg.
 
 
@@ -12,6 +14,8 @@ This folder contains all code for data preparation, training, and validation pro
 * `./result`: saved our trained model (not trained yet)
 
 * `./requirements.txt`: includes all reliance you need to install when running our code.
+
+Paper has attached and you may also find useful information from the poster.
 
 
 Greetings from Qifei[qifei@seas] and Xinyu[xinyulu@seas], feel free to reach us if you met any problems running code.
