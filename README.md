@@ -1,3 +1,6 @@
+# GANet-Seg: Adversarial Learning for Brain Tumor Segmentation with Hybrid Generative Models
+*Author: [Qifei@seas](mailto:qifei@seas.upenn.edu), [Xinyu@SEAS](mailto:xinyulu@seas.upenn.edu)
+
 ![546FP_Poster (1)-1](https://github.com/user-attachments/assets/50c16910-1ca1-4cab-8353-f1b077e38b91)
 
 This folder contains all code for data preparation, training, and validation process for Group2 546 Final Project GANNET-seg.
